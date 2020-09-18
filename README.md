@@ -1,3 +1,3 @@
-# hello-world
+hello-world
 practice repository
-Here's a change in the file
+here's a change in the file
